@@ -1,6 +1,5 @@
 # AI-Generated-Shorts
 
-## This is gonna be epic
 
 # Automated Story-to-YouTube Project
 
