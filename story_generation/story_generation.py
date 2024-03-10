@@ -2,7 +2,9 @@ import openai
 import os
 import pandas as pd
 
-# openai.api_key = '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'
+#make sure to have a .emv file where OPENAI_API_KEY=<yourkey>
+
+# openai.api_key = OPENAI_API_KEY
 folder_path = './generated_stories'
 storyNames = 'shortStory'
 
